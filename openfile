@@ -1,0 +1,6 @@
+#ifndef OPENFILE_INCLUDED
+#define OPENFILE_INCLUDED
+#include <wx
+
+
+#endif // OPENFILE_INCLUDED
